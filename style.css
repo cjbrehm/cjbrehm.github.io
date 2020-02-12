@@ -9,10 +9,11 @@ html  {
 h1 {
 font-size: 1.5em;
 line-height: .5em;
-color: white
+color: lightblue
 }
+
 h2 {
 font-size: 1em;
 line-height: 1em;
-color: lightblue
+color: black
 }
