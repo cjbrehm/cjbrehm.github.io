@@ -1,11 +1,16 @@
 /* Global Layout Set-up */
 
 html  {
-        border-top: 10px solid lightblue
+        border-top: 10px solid yellow
         }
 /* Heading Styling */
 h1 {
 font-size: 1.5em;
 line-height: .5em;
-color: lightblue
+color: blue
+}
+h2 {
+font-size: 1em;
+line-height: 1em;
+color: red
 }
