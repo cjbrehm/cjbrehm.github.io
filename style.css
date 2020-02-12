@@ -1,0 +1,11 @@
+/* Global Layout Set-up */
+
+html  {
+        border-top: 10px solid lightblue
+        }
+/* Heading Styling */
+h1 {
+font-size: 1.5em;
+line-height: .5em;
+color: 333333
+}
