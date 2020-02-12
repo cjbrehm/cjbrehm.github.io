@@ -1,7 +1,7 @@
 /* Global Layout Set-up */
 
 html  {
-        border-top: 30px lightblue
+        border-top: 30px white
         }
 
 /* Heading Styling */
@@ -9,11 +9,11 @@ html  {
 h1 {
 font-size: 1.5em;
 line-height: .5em;
-color: lightblue
+color: blue
 }
 
-h2 {
+h3 {
 font-size: 1em;
 line-height: 1em;
-color: black
+color: add8e6
 }
